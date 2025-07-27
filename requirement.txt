@@ -1,0 +1,11 @@
+# Outlook Calendar (ICS generation) dependencies
+icalendar
+pytz
+datetime
+
+# Google Calendar dependencies
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
